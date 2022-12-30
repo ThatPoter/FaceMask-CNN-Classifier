@@ -1,0 +1,50 @@
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.exe.config
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.exe
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.pdb
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Properties.Resources.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.exe
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.pdb
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Login.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Principal.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.exe.config
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.exe
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.pdb
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.AssemblyReference.cache
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Login.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Principal.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Properties.Resources.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.GenerateResource.cache
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.CoreCompileInputs.cache
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.exe
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.pdb
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\login_adas.mdf
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\login_adas_log.ldf
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\login_adas.mdf
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\login_adas_log.ldf
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.exe.config
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.exe
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\bin\Debug\Projeto_ADAS_2.pdb
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Login.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Principal.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.PrincipalAdmin.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Properties.Resources.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.exe
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.pdb
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.RegistarUtilizador.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.PrincipalAdmin.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.RegistarUtilizador.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Consultar.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Eliminar.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Consultar.resources
+C:\Users\HP\Desktop\Informática de Gestão\3º ano\2º semestre\PDI\Desafio 3\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Eliminar.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Piso.resources
+C:\Users\util\VisualStudioProjects\Projeto_ADAS_2\Projeto_ADAS_2\obj\Debug\Projeto_ADAS_2.Notificação.resources
