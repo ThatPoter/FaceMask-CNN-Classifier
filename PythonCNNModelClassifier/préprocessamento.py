@@ -10,21 +10,21 @@ import tensorflow as tf
 # plt.show()
 
 
-# Preprocessing ###########################################################################
+# Preprocessing 
 data_path = 'dataset/'
-classes = os.listdir(data_path)
-labels = [i for i in range(len(classes))]
-labels_dict = dict(zip(classes, labels))
+list_dir = os.listdir(data_path)
+labels = [i for i in range(len(list_dir))]
+labels_dict = dict(zip(list_dir, labels))
 
-print(str(labels) + "\n" + str(classes) + "\n" + str(labels_dict))
+print(str(labels) + "\n" + str(list_dir) + "\n" + str(labels_dict))
 
-# Converter todas as imagens para RBG e para um Array
+# Convert all images to RBG and save them in the array
 img_size = 256
 X = []
 y = []
 
-for classe in classes:
-    folder_path = os.path.join(data_path, classe)
+for dirs in list_dir:
+    folder_path = os.path.join(data_path, dirs)
     img_names = os.listdir(folder_path)
 
     for img_name in img_names:
@@ -35,14 +35,13 @@ for classe in classes:
             gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
             resized = cv2.resize(gray, (img_size, img_size))
             X.append(resized)
-            y.append(labels_dict[classe])
+            y.append(labels_dict[dirs])
         except Exception as e:
             print('Exception: ', e)
 
 print("The 'for' is Done")
 
-# Normalizar os dados ###########################################################################
-# Codigo que encontrei na net ( X = X/255.0; ) https://www.youtube.com/watch?v=d3DJqucOq4g min:7
+# normalize the data
 X = np.array(X)/255.0
 X = np.reshape(X, (X.shape[0], img_size, img_size, 1))
 y = np.array(y)
@@ -50,7 +49,7 @@ y = np.array(y)
 # One-hot encoding
 y = tf.keras.utils.to_categorical(y)
 
-# Guardar os arrays
+# save the arrays
 print(np.shape(X))
 print(np.shape(y))
 np.save('Data', X)
