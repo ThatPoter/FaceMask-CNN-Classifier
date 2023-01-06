@@ -1,1 +1,1 @@
-# FaceMask-CNNClassifier
+# FaceMask-CNN-Classifier
