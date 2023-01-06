@@ -1,1 +1,1 @@
-# FaceMask-CNNDetector
+# FaceMask-CNNClassifier
